@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<contactSheet>
+<contact>
+	<firstname>Michael</firstname>
+	<lastname>Scott</lastname>
+	<birthday>N/A</birthday>
+	<gender>Male</gender>
+	<occupation>RegionalManager</occupation>
+	<organization>DunderMifflin</organization>
+	<email>michaelscott@gmail.com</email>
+	<phonenumber>0</phonenumber>
+	<country>USA</country>
+	<city>Pennyslvania</city>
+	<contacttype>Business</contacttype>
+</contact>
+<contact>
+	<firstname>Jim</firstname>
+	<lastname>Halpert</lastname>
+	<birthday>N/A</birthday>
+	<gender>Male</gender>
+	<occupation>Salesman</occupation>
+	<organization>DunderMifflin</organization>
+	<email>jimhalpert@gmail.com</email>
+	<phonenumber>0</phonenumber>
+	<country>USA</country>
+	<city>Pennyslvania</city>
+	<contacttype>Business</contacttype>
+</contact>
+<contact>
+	<firstname>Pam</firstname>
+	<lastname>Beesley</lastname>
+	<birthday>N/A</birthday>
+	<gender>Female</gender>
+	<occupation>Receptionist</occupation>
+	<organization>DunderMifflin</organization>
+	<email>pambeesley@gmail.com</email>
+	<phonenumber>0</phonenumber>
+	<country>USA</country>
+	<city>Pennyslvania</city>
+	<contacttype>Business</contacttype>
+</contact>
+<contact>
+	<firstname>Dwight</firstname>
+	<lastname>Schrute</lastname>
+	<birthday>N/A</birthday>
+	<gender>Male</gender>
+	<occupation>Salesman</occupation>
+	<organization>DunderMifflin</organization>
+	<email>dwightschrute@gmail.com</email>
+	<phonenumber>0</phonenumber>
+	<country>USA</country>
+	<city>Pennyslvania</city>
+	<contacttype>Business</contacttype>
+</contact>
+</contactSheet>
